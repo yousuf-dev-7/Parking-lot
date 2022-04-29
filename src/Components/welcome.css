@@ -1,0 +1,36 @@
+.welcometext {
+    font-family: sans-serif;
+    font-size: 30px;
+    align-items: center;
+}
+
+.details {
+    font-family: sans-serif;
+    font-size: 18px;
+    margin: auto;
+    display: flex;
+     justify-content: center;
+    gap: 150px;
+    margin-bottom: 30px;
+}
+
+table, th, td {
+    width: 500px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 20px;
+    padding: 10px 10px;
+
+}
+
+table {
+    
+}
+
+.table {
+display: flex;
+justify-content: center;
+padding: 10px;
+border-spacing: 2px;
+
+}
